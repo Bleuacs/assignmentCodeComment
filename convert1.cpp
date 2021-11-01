@@ -26,6 +26,7 @@ int main(){
 	float input;
 	input=3;
 
+	//Keep going until 0 or letter to end the program
 	while (input != 0){
 		cout << "Enter '1' for Millimeters to Mickeys and '2' for Mickeys to Millimeters," << endl;
 		cout << "and Enter '0' or any letter to end the program: ";
